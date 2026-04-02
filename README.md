@@ -24,7 +24,8 @@
 | 6주차 | 5/17 - 5/23| 7, 8강     | 활용 및 크롤링 후 데이터 처리     |
 
 ### 👨‍💻👩‍💻 SQL 문제 풀이 
-주차별로 3-5문제씩 풀이 후 대면 스터디에서 함께 해설
+주차별로 3-5문제씩 풀이 후 대면 스터디에서 함께 해설 <br>
+<문제 사이트>
 [HackerRank](https://www.hackerrank.com/domains/sql) <br>
 [Leetcode](https://leetcode.com/studyplan/top-sql-50/) <br>
 [Programmers](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
