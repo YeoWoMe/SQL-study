@@ -11,7 +11,7 @@
 ### 🏫 활용 강의
 [Do it! MySQL로 배우는 SQL 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7uFBOZYE1-24UYq53u1qmxW)
 
-* 각 주차별 강의 수강 후 공부 기록 {폴더명}에 게시 <br>
+* 각 주차별 강의 수강 후 공부 기록 폴더에 게시 <br>
 * 코드 파일, 필기 정리 등 자신이 공부한 기록이면 다 👌
 
 | 주차 | 기간        | 강좌        | 주요 내용                         |
