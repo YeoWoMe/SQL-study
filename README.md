@@ -25,8 +25,8 @@
 
 ### 👨‍💻👩‍💻 SQL 문제 풀이 
 주차별로 3-5문제씩 풀이 후 대면 스터디에서 함께 해설
-[HackerRank](https://www.hackerrank.com/domains/sql)
-[Leetcode](https://leetcode.com/studyplan/top-sql-50/)
+[HackerRank](https://www.hackerrank.com/domains/sql) <br>
+[Leetcode](https://leetcode.com/studyplan/top-sql-50/) <br>
 [Programmers](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 | 주차 | 기간        | 문제        |
 |------|------------|------------|
