@@ -31,7 +31,7 @@
 [Programmers](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 | 주차 | 기간        | 문제        |
 |------|------------|------------|
-| 2주차 | 4/5 - 4/11 |(업데이트 예정 ‼️)| 
+| 2주차 | 4/5 - 4/11 |HackerRank revising the select query, select by ID, Weather observation station1 | 
 | 3주차 | 4/26 - 5/2 |         |
 | 4주차 | 5/3 - 5/9  |         |
 | 5주차 | 5/10 - 5/16|         |
