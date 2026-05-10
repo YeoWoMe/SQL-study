@@ -33,6 +33,6 @@
 |------|------------|------------|
 | 2주차 | 4/5 - 4/11 |HackerRank revising the select query, select by ID, Weather observation station1 | 
 | 3주차 | 4/26 - 5/2 |         |
-| 4주차 | 5/3 - 5/9  |         |
+| 4주차 | 5/3 - 5/9  |HackerRank Top Competitors, weather observation station 8, Average Population of Each Continent |
 | 5주차 | 5/10 - 5/16|         |
 | 6주차 | 5/17 - 5/23|         |
